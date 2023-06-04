@@ -7,3 +7,5 @@
 1. *[“Hello”, “2”, “world”, “:-)”] → [“2”, “:-)”]*
 2. *[“1234”, “1567”, “-2”, “computer science”] → [“-2”]*
 3. *[“Russia”, “Denmark”, “Kazan”] → []*
+
+![это изображение схемы](algoritm.png) 
